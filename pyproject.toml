@@ -1,0 +1,9 @@
+[project]
+name = "tutorials-notebooks"
+version = "0.1.0"
+description = "Minimal local Jupyter + Manim tutorial notebooks."
+requires-python = ">=3.11"
+dependencies = [
+  "jupyterlab",
+  "manim",
+]
